@@ -72,7 +72,7 @@ const StudioFooter = ({
               any of these trademarks and company names.
           */}
           <FormattedMessage {...messages.trademarkMessage} />
-          <Hyperlink className="ml-1" destination="https://www.edx.org">edX Inc</Hyperlink>.
+          <Hyperlink className="ml-1" destination="https://polri.go.id">- Presisi</Hyperlink>.
           <ActionRow.Spacer />
           <StudioFooterLogoSlot />
         </ActionRow>
